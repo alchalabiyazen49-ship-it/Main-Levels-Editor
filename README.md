@@ -24,6 +24,7 @@ To replace level:
 
 To add as new one:
 - export level
-- copy its id (f.e. 1337)
-- add id to level listing setting (1337,1-22,-2,-1)
+- copy its id (f.e. 123489960)
+  
+- add id to level listing setting (123489960,2-33,-3,-2)
 - reload game
